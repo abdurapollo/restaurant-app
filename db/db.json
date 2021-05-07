@@ -1,0 +1,31 @@
+{
+  "login": [
+     {
+       "name": "abd",
+       "password": "qwerty"
+     }
+  ],
+  "restaurant": [
+    {
+      "name": "McDonald",
+      "address": "Delhi",
+      "rating": "4.0",
+      "email": "mcdonald@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "New Delhi",
+      "rating": "4.5",
+      "email": "dominos@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Haldiram",
+      "address": "Patna",
+      "rating": "4.5",
+      "email": "haldiram@gmail.com"
+    }
+  ]
+}
